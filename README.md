@@ -1,0 +1,2 @@
+# UsefulCode
+SomeCodeFromWork
