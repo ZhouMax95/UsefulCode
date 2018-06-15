@@ -57,6 +57,6 @@ public class AssetsBundles : MonoBehaviour {
 			yield return tW;
 			tW.assetBundle.LoadAllAssets();
 		}
-		StartCoroutine(Load()); 
+		StartCoroutine(Load());
 	}
 }
